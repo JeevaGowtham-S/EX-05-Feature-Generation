@@ -20,9 +20,9 @@ Save the data to the file
 
 
 # CODE
-Developed by:Adhithya Perumal.D
+Developed by:JEEVA GOWTHAM S
 
-Register no : 212222230007
+Register no : 212222230053
 
 ## Data:
 ```
